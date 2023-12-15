@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+#heading{
+	text-align:center;
+}
+td{
+	border:1px solid rgb(0, 0, 0);
+}
+table{
+	border:1px solid black;
+	spacing:1px;
+	cell-padding:1px;
+	border-collapse:collapse;
+}
+#tr1{
+	background-color:green;
+}
+#tr3{
+	background-color:blue;
+}
